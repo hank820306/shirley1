@@ -1,0 +1,4 @@
+#Wed Dec 06 00:08:13 CST 2017
+base.0=C\:\\Users\\king0\\StudioProjects\\shirley1\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
